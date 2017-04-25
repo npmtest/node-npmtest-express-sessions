@@ -1,6 +1,6 @@
 # npmtest-express-sessions
 
-#### test coverage for  [express-sessions (v1.0.6)](http://github.com/konteck/express-sessions)  [![npm package](https://img.shields.io/npm/v/npmtest-express-sessions.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-sessions) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-sessions.svg)](https://travis-ci.org/npmtest/node-npmtest-express-sessions)
+#### basic test coverage for  [express-sessions (v1.0.6)](http://github.com/konteck/express-sessions)  [![npm package](https://img.shields.io/npm/v/npmtest-express-sessions.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-sessions) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-sessions.svg)](https://travis-ci.org/npmtest/node-npmtest-express-sessions)
 
 #### ExpressJS MongoDB/Redis Session Storage
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-express-sessions/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-express-sessions/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-express-sessions/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-express-sessions/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-sessions/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-sessions/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-express-sessions/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-express-sessions/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-sessions/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-sessions/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-express-sessions/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-express-sessions/build/coverage.html/index.html)
 
@@ -77,7 +77,8 @@
         "url": "git+ssh://git@github.com/konteck/express-sessions.git"
     },
     "scripts": {},
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "bin": {}
 }
 ```
 
